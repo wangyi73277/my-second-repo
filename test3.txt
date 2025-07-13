@@ -1,1 +1,2 @@
 This file has been changed.
+This change is for fetch command testing.
